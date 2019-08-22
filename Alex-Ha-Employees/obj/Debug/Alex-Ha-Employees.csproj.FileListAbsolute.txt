@@ -1,0 +1,7 @@
+C:\Users\Alex\source\repos\Alex-Ha-Employees\Alex-Ha-Employees\bin\Debug\Alex-Ha-Employees.exe.config
+C:\Users\Alex\source\repos\Alex-Ha-Employees\Alex-Ha-Employees\bin\Debug\Alex-Ha-Employees.exe
+C:\Users\Alex\source\repos\Alex-Ha-Employees\Alex-Ha-Employees\bin\Debug\Alex-Ha-Employees.pdb
+C:\Users\Alex\source\repos\Alex-Ha-Employees\Alex-Ha-Employees\obj\Debug\Alex-Ha-Employees.csprojAssemblyReference.cache
+C:\Users\Alex\source\repos\Alex-Ha-Employees\Alex-Ha-Employees\obj\Debug\Alex-Ha-Employees.csproj.CoreCompileInputs.cache
+C:\Users\Alex\source\repos\Alex-Ha-Employees\Alex-Ha-Employees\obj\Debug\Alex-Ha-Employees.exe
+C:\Users\Alex\source\repos\Alex-Ha-Employees\Alex-Ha-Employees\obj\Debug\Alex-Ha-Employees.pdb
